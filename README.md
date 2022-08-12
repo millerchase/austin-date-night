@@ -5,7 +5,7 @@
 Many couples in Austin are faced with where exactly to go and what exactly to do when they do want to go out. This website makes it easily possible for anyone to select which area of Austin they would be enjoying along with what kinds of categories they'd like to experience. The weather is then presented to remind the user of any problematic weather effects along with results of events within the zone and category selected and then most popular events in the area regardless of the category selected.
 
 ## Link to Application: 
-[jeffrylangford.github.io/group-project-1/](https://jeffrylangford.github.io/group-project-1/)
+[https://millerchase.github.io/austin-date-night/](https://millerchase.github.io/austin-date-night/)
 
 ## User Story:
 
